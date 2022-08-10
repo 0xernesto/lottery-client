@@ -6,4 +6,4 @@ This is the frontend for a lottery contract I built and deployed to the Rinkeby 
 
 -   JavaScript
 -   React
--   web3.js
+-   Web3.js
